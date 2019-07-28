@@ -1,5 +1,5 @@
 # Webpage-3-
-The last WEB project
+WEB project
 
 <br>
 
