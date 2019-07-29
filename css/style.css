@@ -15,6 +15,7 @@ body {
 .container {
   text-align: center;
   color: blue;
+  padding: 20px;
 }
 
 #menu {
