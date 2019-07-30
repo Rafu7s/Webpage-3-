@@ -30,6 +30,7 @@ body {
   margin: 0px;
   padding: 0;
   background: yellow;
+  border-radius: 0;
 }
 
 #title {
