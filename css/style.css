@@ -31,6 +31,7 @@ body {
   padding: 0;
   background: yellow;
   border-radius: 0;
+  height: 45px;
 }
 
 #title {
