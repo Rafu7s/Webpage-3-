@@ -23,7 +23,8 @@ body {
 
 #menu {
   color: #fff;
-  
+  top: 0;
+  left: 0;  
 }
 
 #title {
