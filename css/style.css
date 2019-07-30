@@ -34,6 +34,10 @@ body {
   height: 45px;
 }
 
+#menu a {
+  
+}
+
 #title {
   background: url('../img/gory.jpg') center;
   margin-top: 70px;
