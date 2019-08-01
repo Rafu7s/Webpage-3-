@@ -61,11 +61,11 @@ body {
 }
 
 #title-imgthumb {
-	
+   float: left;	
 }
 
 #title-h1 {
-   width: 60%;  
+    
 }
 
 .witamy {
