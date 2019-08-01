@@ -35,6 +35,11 @@ body {
   box-shadow: 0px 10px 20px #f442a7; /*os x/os y/rozmycie/kolor*/
 }
 
+h1, h2, h3, h4, h5, h6 {
+  font-family" 'Roboto', sans-serif;
+  /*color: green;*/
+}
+
 #imgtick {
   height: 50px;
   /*background: blue;*/
