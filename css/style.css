@@ -59,6 +59,7 @@ h1 {
   background: pink;
   border-radius: 50px;
   display: inline-block;
+  line-height: 35px; /*linie tla-wielkosc ramek*/
 }
 
 #title {
