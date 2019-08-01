@@ -58,6 +58,7 @@ h1 {
   text-decoration: none;
   background: pink;
   border-radius: 50px;
+  display: inline-block;
 }
 
 #title {
