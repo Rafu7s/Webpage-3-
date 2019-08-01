@@ -35,8 +35,10 @@ body {
   box-shadow: 0px 10px 20px #f442a7; /*os x/os y/rozmycie/kolor*/
 }
 
-#img1id {
+#imgtick {
   height: 50px;
+  /*background: blue;*/
+	/*margin-top: 15px;  */
 }
 
 #menu a {
