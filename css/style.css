@@ -60,6 +60,7 @@ h1 {
   border-radius: 50px;
   display: inline-block;
   line-height: 35px; /*linie tla-wielkosc ramek*/
+  width: 15%; /*rowne bloki*/
 }
 
 #title {
