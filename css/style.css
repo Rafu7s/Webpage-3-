@@ -61,6 +61,7 @@ h1 {
   display: inline-block;
   line-height: 35px; /*linie tla-wielkosc ramek*/
   width: 15%; /*rowne bloki*/
+  margin: 10px 10px;
 }
 
 #title {
