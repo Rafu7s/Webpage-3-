@@ -83,6 +83,8 @@ h1 {
 #title-imgthumb {
   float: left;	
   margin-top: 25px;
+  width: 20%;
+  /*background: blue;*/
 }
 
 #title-h1 {
