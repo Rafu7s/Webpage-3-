@@ -77,6 +77,10 @@ h3 {
   /*opacity: 0.5; */
 }
 
+.clear {
+  clear: both;
+}
+
 .shade {
   
 }
