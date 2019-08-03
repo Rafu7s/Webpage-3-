@@ -78,6 +78,7 @@ h1 {
 
 #title-imgtick {
   width: 20%;
+  float: left;
 }
 
 #title-imgthumb {
