@@ -3,7 +3,7 @@ WEB project
 
 <br>
 
-IN PROGRESS
+Status: IN PROGRESS
 
 <br>
 
