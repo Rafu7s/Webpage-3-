@@ -118,3 +118,7 @@ h3 {
   margin-top: 2px;
   margin-bottom: 2px;
 }
+
+#content {
+  height: 1000px;
+}
