@@ -71,6 +71,10 @@ h3 {
   padding: 0 20px;
 }
 
+#menu a:hover {
+  color: green;
+}
+
 #title {
   background: url('../img/gory.jpg') center;
   margin-top: 70px;
