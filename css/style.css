@@ -99,10 +99,14 @@ h3 {
 }
 
 #title-h1 {
-    float:left;
-    width: 60%;
+  float:left;
+  width: 60%;
 }
 
 .witamy {
   color: #fbedb3;
+}
+
+#title h1 {
+  margin-top: 0;
 }
