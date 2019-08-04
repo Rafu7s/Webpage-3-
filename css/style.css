@@ -74,6 +74,7 @@ h3 {
 #menu a:hover {
   color: green;
   background: #6d9eed;
+  transition: color 0.6s easy-in-out;
 }
 
 #title {
