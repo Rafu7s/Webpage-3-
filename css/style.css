@@ -141,6 +141,7 @@ h3 {
 
 .dane-stopki {
   width: 70%;
+  margin: auto; /*wysrodkowuje*/
 }
 
 .dane-stopki div {
