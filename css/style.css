@@ -150,5 +150,5 @@ h3 {
 }
 
 #content :hover, #navigation :hover, footer :hover { /*zmiana koloru po najechaniu*/
-  
+  color: rgb(233, 233, 14);
 }
