@@ -153,6 +153,6 @@ h3 {
   color: rgb(233, 233, 14);
 }
 
-.sponso {
-  
+.sponso {       /*mozna to samo wkleic do head html miedzy tagami style - styl zagniezdzony*/
+  height: 50px;
 }
