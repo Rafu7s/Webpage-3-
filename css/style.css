@@ -149,7 +149,7 @@ h3 {
   width: 33%;
 }
 
-#content hover: {
+#content :hover {
   transition: color 1s ease-in-out;
 }
 
