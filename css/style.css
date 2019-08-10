@@ -150,7 +150,7 @@ h3 {
 }
 
 #content hover: {
-  transition: color 1s easy-in-out;
+  transition: color 1s ease-in-out;
 }
 
 #content :hover, #navigation :hover, #footer :hover { /*zmiana koloru po najechaniu*/
