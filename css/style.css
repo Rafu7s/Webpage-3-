@@ -162,5 +162,5 @@ h3 {
   width: 150px;
   display: block;
   margin: 0 auto 3px auto;
-  border: 3px solid;
+  border: 3px solid #ccc;
 }
