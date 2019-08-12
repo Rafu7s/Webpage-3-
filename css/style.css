@@ -177,6 +177,7 @@ h3 {
 .tabela {
   text-align: center;
   margin: auto;
+  width: 30px;  
 }
 
 .tabela img {
