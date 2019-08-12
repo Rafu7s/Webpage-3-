@@ -130,6 +130,14 @@ h3 {
   text-align: center;
 }
 
+#content2 h3 {
+  text-align: center;
+}
+
+#content3 h3 {
+  text-align: center;
+}
+
 #content {
   height: 1000px;
   text-align: left;
