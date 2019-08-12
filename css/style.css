@@ -135,6 +135,11 @@ h3 {
   border: 200px solid;
 }
 
+#content3 {
+  border: 200px solid;
+  margin: auto;
+}
+
 #footer {
   background: #0f6d6d;
   color: white;
