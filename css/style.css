@@ -142,6 +142,7 @@ h3 {
 }
 
 #content3 {
+  height: 1000px;
   border: 200px solid;
   margin: auto;
   text-align: left;
