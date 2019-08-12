@@ -50,6 +50,7 @@ h1 {
 h3 {
   font-family: 'Major Mano Display', monospace;
   color: green;
+  border: 1px dotted;
 }
 
 #img-hitch {
