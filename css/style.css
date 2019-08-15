@@ -218,7 +218,7 @@ h3 {
 }
 
 #form label {
-  
+  display: inline-block;
 }
 
 #form div {
