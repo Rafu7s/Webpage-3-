@@ -218,8 +218,8 @@ h3 {
 }
 
 #form label {
-  size: 30px;
-  
+  width: 30%;
+  display: inline-block;
 }
 
 #form div {
