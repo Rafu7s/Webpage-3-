@@ -219,7 +219,7 @@ h3 {
 
 #form label {
   width: 30%;
-  
+  display: inline-block;
 }
 
 #form div {
