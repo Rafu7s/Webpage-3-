@@ -282,3 +282,7 @@ h3 {
 .dogalerii:hover {
   background: pink;
 }
+
+a:visited {
+  color: grey;
+}
