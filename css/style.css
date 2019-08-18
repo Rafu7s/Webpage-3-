@@ -271,6 +271,7 @@ h3 {
   background: #42dcf4;
   text-decoration: none;
   text-align: center;
+  display: block;
 }
 
 .dogalerii:hover {
