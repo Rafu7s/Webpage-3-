@@ -257,3 +257,7 @@ h3 {
   padding: 30px;
   /*border-collapse: collapse;  /*likwiduje odstepy miedzy komorkami*/
 }
+
+.center {
+  text-align: center;
+}
