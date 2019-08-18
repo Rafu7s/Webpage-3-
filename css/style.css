@@ -241,3 +241,9 @@ h3 {
 .table {
   text-align: center;
 }
+
+.plans {
+  margin: auto;
+  border: none /*1px solid #ff0000; */
+  border-collapse: collapse;
+}
