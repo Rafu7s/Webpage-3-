@@ -237,3 +237,7 @@ h3 {
 .underline {
   text-decoration: underline;
 }
+
+.table {
+  text-align: center;
+}
