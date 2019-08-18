@@ -225,7 +225,7 @@ h3 {
 #form div {
   margin: 15px 0;
 }
-
+-----------------------------------
 .bold {
   font-weight: bold;
 }
@@ -250,4 +250,10 @@ h3 {
 
 .plans tr {
   border-bottom: 1px solid #red;
+}
+
+.plans td {    /*; .plans th*/
+  border: none; #ff0000;       /*1px solid /*lub dotted*/
+  padding: 30px;
+  /*border-collapse: collapse;  /*likwiduje odstepy miedzy komorkami*/
 }
