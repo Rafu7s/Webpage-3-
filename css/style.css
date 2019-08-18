@@ -247,3 +247,7 @@ h3 {
   border: none /*1px solid #ff0000; */
   border-collapse: collapse;
 }
+
+.plans tr {
+  border-bottom: 1px solid #red;
+}
