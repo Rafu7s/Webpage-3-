@@ -261,3 +261,7 @@ h3 {
 .center {
   text-align: center;
 }
+
+@form_kontakt {
+  background: red;
+}
