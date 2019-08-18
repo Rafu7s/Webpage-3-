@@ -274,6 +274,7 @@ h3 {
   display: block;
   margin: 20px auto;
   padding: 20px 40px;
+  border-radius: 5px;
 }
 
 .dogalerii:hover {
