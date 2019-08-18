@@ -220,6 +220,7 @@ h3 {
 #form label {
   width: 30%;
   display: inline-block;
+  size: 30px;
 }
 
 #form div {
