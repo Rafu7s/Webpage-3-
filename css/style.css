@@ -233,3 +233,7 @@ h3 {
 .italic {
   font-style: italic;
 }
+
+.underline {
+  text-decoration: underline;
+}
