@@ -269,4 +269,9 @@ h3 {
 .btn {
   color: #fff;
   background: #42dcf4;
+  
+}
+
+.btn :hover {
+  background: pink;
 }
