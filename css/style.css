@@ -286,3 +286,7 @@ h3 {
 a:visited {
   color: grey;
 }
+
+input:focus {
+  border: 1px;
+}
