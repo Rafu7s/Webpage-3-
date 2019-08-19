@@ -303,3 +303,7 @@ input:focus {
   display: inline-block;
   padding: 8px 26px;
 }
+
+a:hover {
+  color: black;
+}
