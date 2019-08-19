@@ -291,3 +291,7 @@ input:focus {
   border: 1px solid #000000; 
   background: rgb(209, 216, 223);
 }
+
+a {
+  text-decoration: none;
+}
