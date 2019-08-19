@@ -297,3 +297,7 @@ input:focus {
   text-decoration: none;
   padding: 8px 26px;
 }
+
+#netykieta {
+  text-decoration: none;
+}
