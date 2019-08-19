@@ -292,7 +292,7 @@ input:focus {
   background: rgb(209, 216, 223);
 }
 
-#navigation {
+#navigation a {
   display: inline-block;
   text-decoration: none;
   padding: 8px 26px;
