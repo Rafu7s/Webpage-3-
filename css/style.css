@@ -306,4 +306,5 @@ input:focus {
 
 a:hover {
   color: black;
+  background-color: #ddd; 
 }
