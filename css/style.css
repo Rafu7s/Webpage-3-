@@ -294,4 +294,5 @@ input:focus {
 
 a {
   text-decoration: none;
+  display: inline-block;
 }
