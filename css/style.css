@@ -289,4 +289,5 @@ a:visited {
 
 input:focus {
   border: 1px solid #000000; 
+  background: red;
 }
