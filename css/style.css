@@ -308,3 +308,7 @@ a:hover {
   color: black;
   background-color: #ddd; 
 }
+
+.previous {
+  float: left;
+}
