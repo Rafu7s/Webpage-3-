@@ -312,3 +312,7 @@ a:hover {
 .previous {
   float: left;
 }
+
+.next {
+  float: right;
+}
