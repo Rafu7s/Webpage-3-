@@ -301,4 +301,5 @@ input:focus {
 #netykieta {
   text-decoration: none;
   display: inline-block;
+  padding: 8px 26px;
 }
