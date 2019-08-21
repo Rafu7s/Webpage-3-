@@ -312,9 +312,11 @@ a:hover {
 .previous {
   float: left;
   color: black;
+  background-color: #4CAF50;
 }
 
 .next {
   float: right;
   color: white;
+  background-color: #4CAF50;
 }
