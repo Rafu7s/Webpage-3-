@@ -320,3 +320,7 @@ a:hover {
   color: white;
   background-color: #4CAF50;
 }
+
+.page {
+  border-radius: 50%;
+}
