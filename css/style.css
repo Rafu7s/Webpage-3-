@@ -277,7 +277,7 @@ h3 {
   margin: 20px auto;
   padding: 20px 40px;
   border-radius: 5px;
-  box-shadow: 5px 5px 5px green;
+  box-shadow: 5px 5px 5px #aaa;
 }
 
 .dogalerii:hover {
