@@ -152,7 +152,7 @@ h3 {
 }
 
 #content3 {
-  height: 1000px;
+  min-height: 900px;
   border: 20px solid;
   margin: auto;
   width: 1200px;
