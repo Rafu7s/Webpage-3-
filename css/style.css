@@ -330,3 +330,7 @@ a:hover {
   color: white;
   background-color: #4CAF50;
 }
+
+.galeria {
+  border: 3px solid #FFFFFF;
+}
