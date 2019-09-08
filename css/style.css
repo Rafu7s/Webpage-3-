@@ -342,3 +342,19 @@ height: 600px;
 margin: auto;
 background: black;
 }
+
+#one {
+  float: left;
+  margin-left: 50px;
+  margin-top: 5px;
+}
+
+#dwa {
+  float: right;
+  margin-right: 50px;
+  margin-top: 5px;
+}
+
+#trzy {
+  margin-left: 50%;
+}
