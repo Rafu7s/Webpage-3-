@@ -336,7 +336,7 @@ a:hover {
 }
 
 #obrazek {
-border: 10px solid #fff;
+border: 10px solid rgb(131, 128, 128);
 width: 1000px;
 height: 600px;
 margin: auto;
