@@ -359,3 +359,10 @@ background: black;
   margin-left: 50%;
   margin-right: 50%;
 }
+
+#tresc {
+  width: 990px;
+  margin:auto;
+  color: #000;
+  margin-top: 50px;
+}
