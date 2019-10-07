@@ -178,7 +178,7 @@ h3 {
   width: 33%;
 }
 
-#content :hover, #footer :hover { /*zmiana koloru po najechaniu*/
+#obrazek :hover, #footer :hover { /*zmiana koloru po najechaniu*/
   color: rgb(233, 233, 14);
 }
 
