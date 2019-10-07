@@ -367,3 +367,12 @@ background: black;
   margin-top: 50px;
   min-height: 200px;
 }
+
+#copyright {
+  text-align: center;
+  margin-top: 10px;
+  background: #e4055e; 
+  height: 50px;
+  color: #fff;
+  padding: 10px;
+}
